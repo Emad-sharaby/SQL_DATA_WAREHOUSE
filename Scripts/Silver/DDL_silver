@@ -1,10 +1,12 @@
+/* 
 ============================
-/*  DDL script: create silver tables (6 tables) */
+DDL script: create silver tables (6 tables) 
 ============================
-/*creating  six tables in the silver layer with the same name and structure in 
-the bronze layer,also we added a new column called create date which specify 
-the creation time of the data*/
+creating  six tables in the silver layer with the same name and structure in 
+the bronze layer, also we added a new column called create date, which specifies 
+the creation time of the data
 ============================
+*/
 use Datawarehouse;
 if OBJECT_ID('silver.crm_cust_info','U') IS NOT NULL
     DROP TABLE silver.crm_cust_info;
