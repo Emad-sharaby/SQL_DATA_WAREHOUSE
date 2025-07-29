@@ -1,8 +1,8 @@
-==================================
+--==================================
 /*
 loading data from two sources (CRM,ERP)>> six table into bronze layer with calculating the time of loading.
 */
-==================================
+--==================================
 
 
 create or alter  procedure bronze.load_bronze as 
