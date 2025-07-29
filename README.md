@@ -27,4 +27,4 @@ In this project, we are trying to create a **data warehouse** using structured s
 
 ## Stay connected
 Feel free to connect:
-[**linkedin**](www.linkedin.com/in/emad-sharaby)
+[LinkedIn](https://www.linkedin.com/in/emad-sharaby)
