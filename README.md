@@ -21,7 +21,7 @@ In this project, we are trying to create a **data warehouse** using structured s
 
 ## 🎯 Scope
 
-- Focus only on the **latest dataset**, excluding outdated or archived data.
+- Focus only on the **latest dataset**, excluding outdated data.
 
 
 ---
