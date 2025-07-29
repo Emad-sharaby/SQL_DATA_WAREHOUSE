@@ -22,3 +22,9 @@ In this project, we are trying to create a **data warehouse** using structured s
 ## 🎯 Scope
 
 - Focus only on the **latest dataset**, excluding outdated or archived data.
+
+---
+
+## Stay connected
+Feel free to connect:
+[**linkedin**](www.linkedin.com/in/emad-sharaby)
