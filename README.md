@@ -27,4 +27,6 @@ In this project, we are trying to create a **data warehouse** using structured s
 
 ## Stay connected
 Feel free to connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/emad-sharaby)
+<a href="https://www.linkedin.com/in/emad-sharaby" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" />
+</a>
