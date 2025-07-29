@@ -23,11 +23,6 @@ In this project, we are trying to create a **data warehouse** using structured s
 
 - Focus only on the **latest dataset**, excluding outdated or archived data.
 
----
-
-## Stay connected
-Feel free to connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/emad-sharaby)
 
 ---
 ## 👋 About Me
@@ -42,5 +37,11 @@ What sets me apart is that I don't just know the **technical tools** — I also 
 - **SQL**: data extraction, cleaning, and transformation  
 - **Power BI**: interactive reports, DAX, and business insights  
 - **Python (Basics)**: data manipulation and automation tasks
+
+  ---
+
+## Stay connected
+Feel free to connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/emad-sharaby)
 
 
